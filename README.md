@@ -249,11 +249,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Contact
-
-- **Huzaifa Bin Tariq**: [huzaifa.tariq@example.com]
-- **Hazim Ghulam Farooq**: [hazim.farooq@example.com]
-- **Muhammad Wasay**: [muhammad.wasay@example.com]
 
 ## 🙏 Acknowledgments
 
